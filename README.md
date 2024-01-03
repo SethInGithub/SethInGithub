@@ -16,8 +16,8 @@ Here's a list of languages and tools I've worked with and continue to improve up
 </p>
 
 ## Projects I'm Proud Of 💼
-- [Project Name](https://github.com/SethInGithub/project-name) - A brief description of this awesome project that I've worked on.
-<!--- [Another Project](https://github.com/SethInGithub/another-project) - Another impactful project that I'm really proud of.
+<!--- [Project Name](https://github.com/SethInGithub/project-name) - A brief description of this awesome project that I've worked on.
+- [Another Project](https://github.com/SethInGithub/another-project) - Another impactful project that I'm really proud of.
 - [Cool App](https://github.com/SethInGithub/cool-app) - A cool application that solves a real-world problem.-->
 
 Feel free to check them out and don't hesitate to reach out if you have any questions or comments!
