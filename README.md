@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## Portfolio 🖥️
-See my portfolio at [https://sethingithub.github.io/](http://sethingithub.github.io/)
-
 ## About Me 🚀
 I'm Seth, a passionate programmer who loves to explore new technologies and engage in challenging projects. I've embarked on a coding journey that has taken me from curious hobbyist to a dedicated developer.
 
